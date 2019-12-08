@@ -42,7 +42,6 @@ galleryImages: NgxGalleryImage[];
         description: photo.description
       });
     }
-    console.log(imageUrls);
     return imageUrls;
   }
 // loadUser() {
